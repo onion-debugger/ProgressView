@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  ProgressView
-//
-//  Created by onion_debugger on 14/07/2025.
-//
-
 import SwiftUI
 
 struct ContentView: View {
